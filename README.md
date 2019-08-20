@@ -20,6 +20,8 @@ All the hyper-parameters and tricks, e.g. gradient clip, are strictly consistent
 | MAML |     48.7%    |     63.1%    |
 | Ours |     48.9%    |     #TODO#   |
 
+![meta_loss](meta_loss.jpg)
+
 # reference
 https://github.com/cbfinn/maml
 
