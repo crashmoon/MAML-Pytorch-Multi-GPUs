@@ -20,6 +20,9 @@ It is a reproduced version of maml, which is implemented with PyTorch 1.2.0 and 
 
 # reference
 https://github.com/cbfinn/maml
+
 https://github.com/dragen1860/MAML-Pytorch
+
 https://github.com/jik0730/MAML-in-pytorch
+
 https://arxiv.org/abs/1703.03400
