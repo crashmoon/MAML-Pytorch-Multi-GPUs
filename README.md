@@ -5,12 +5,12 @@ All the hyper-parameters and tricks, e.g. gradient clip, are strictly consistent
 
 # Platform
 - python: 3.7
-- Pytorch: 1.2.0
+- Pytorch: 1.6.0
 
 # Howto
 1. Downloading `MiniImagenet` dataset
-2. Changing the Param.root in `train_mini_adam.py` with your own root of the MiniImagenet dataset
-3. python train_mini_adam.py 
+2. Changing `dataset_dir` in `run_meta.py` with your own root of the MiniImagenet dataset
+3. python run_meta.py 
 
 
 # Comparison to original MAML implementation for miniImageNet
